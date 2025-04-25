@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+div{
+  background-color: rgb(216, 186, 17);
+  padding: 30px;
+  color: rgb(179, 12, 123);
+  font-size: large;
+  font-weight: bold;
+
+}
+button{
+  margin-left: 10px;
+  background: rgb(179, 12, 123);
+  color: whitesmoke;
+}
+
+
